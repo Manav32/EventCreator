@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EventCreator/static/css/main.59633889.css",
-    "main.js": "/EventCreator/static/js/main.1621b64f.js",
+    "main.js": "/EventCreator/static/js/main.fb85365f.js",
     "static/media/ecommerce.png": "/EventCreator/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/resume.pdf": "/EventCreator/static/media/resume.944ae2c2747f86318de8.pdf",
     "static/media/sidebar.png": "/EventCreator/static/media/sidebar.b2225070b8adae68d063.png",
@@ -18,10 +18,10 @@
     "static/media/glasses.png": "/EventCreator/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/EventCreator/index.html",
     "main.59633889.css.map": "/EventCreator/static/css/main.59633889.css.map",
-    "main.1621b64f.js.map": "/EventCreator/static/js/main.1621b64f.js.map"
+    "main.fb85365f.js.map": "/EventCreator/static/js/main.fb85365f.js.map"
   },
   "entrypoints": [
     "static/css/main.59633889.css",
-    "static/js/main.1621b64f.js"
+    "static/js/main.fb85365f.js"
   ]
 }
